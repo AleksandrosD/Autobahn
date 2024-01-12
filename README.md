@@ -28,7 +28,7 @@ Autobahn is powered by a robust stack of technologies to ensure a smooth and res
 
 ## Short Video Walkthrough of the App
 
-[![Autobahn Video Walkthrough](https://i.vimeocdn.com/video/901836709/maxresdefault.jpg)](https://vimeo.com/901836709)
+[![Autobahn Video Walkthrough](https://i.vimeocdn.com/video/901836709)](https://vimeo.com/901836709)
 
 Check out a brief video walkthrough of Autobahn to see how our platform can enhance your car-buying experience. Click on the image above to watch the video.
 
