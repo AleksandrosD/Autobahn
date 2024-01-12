@@ -64,14 +64,14 @@ Video Timelines
 
 3. **Advanced Filtering Options:**
    - Enhance filtering options for a more refined search experience.
-   - Include filters based on additional parameters such as mileage, year, and specific features.
+   - Include filters based on additional parameters.
 
 4. **Multi-Image Display with Zoom:**
-   - Enable the display of multiple images for each car.
+   - Add more images for cars.
    - Implement a zoom feature when hovering over images to provide a closer look.
 
 5. **Customizable Service Page:**
-   - If applicable, customize the service page to include information about a real service center.
+   - If our dealership has a real personal service center, customize the service page to include information about us.
    - Provide details such as service offerings, contact information, and operating hours.
 
 6. **Forgot Password Option:**
@@ -86,6 +86,7 @@ These improvements aim to enhance user experience, provide more comprehensive in
 - conor7276 (GitHub: [@conor7276](https://github.com/conor7276)) Porche GT3 RS
 
 Thank you for cheking out this project, feel free to fork it and work on your own.
+This project is designed for easy customization, allowing seamless adaptation to various cars from United States or Japan.
 
 
 
