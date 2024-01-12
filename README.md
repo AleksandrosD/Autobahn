@@ -39,3 +39,57 @@ Check out a brief video walkthrough of Autobahn to see how our platform can enha
     <img src="https://i.vimeocdn.com/video/1780942886-34e374285441b2eed39fc92bc8bb98893079cf255d63d3fd5b418bbe0340fd35-d&_142x80" alt="Click to Watch Video" width="400">
   </a>
 </p>
+
+Video Timelines
+- **00:00 to 00:30:** Our introduction page displays four of our main cars on the website (Porsche, AUDI, Mercedes, BMW). There are three main buttons on the top right: Services, Inventory, and Login.
+
+- **00:30 to 02:50:** Viewing the inventory and exploring the filter options on the left. (Unfortunately, the screen recording didn't capture the dropdown when switching between the make and body type of the cars).
+
+- **02:50 to 03:50:** Examining detailed information about the cars, such as miles, price, horsepower, transmission, drivetrain, engine, and color. Additionally, there's a text description of the car and a "Contact Us" window where the buyer can input their information to reach out to the dealer for more details and schedule a test drive.
+
+- **03:50 to 04:20:** Services page where car owners can find the nearest service center for their vehicles with specialized technicians.
+
+- **04:20 to 04:45:** The Login/Signup page allows buyers to create an account, like and save their preferred cars, and receive updates on their status via email.
+
+## Future Updates
+
+1. **Employee User Interface:**
+   - Introduce a dedicated "Employee" user role with a different interface.
+   - Allow employees to modify car data, including prices, status, and general information.
+   - Enable employees to add new cars or remove existing ones directly from the UI.
+
+2. **Streamlined Car Information:**
+   - Simplify the car information section.
+   - Focus on essential details such as the number of previous owners, accident history, and type of usage (rental, commercial, or personal).
+
+3. **Advanced Filtering Options:**
+   - Enhance filtering options for a more refined search experience.
+   - Include filters based on additional parameters such as mileage, year, and specific features.
+
+4. **Multi-Image Display with Zoom:**
+   - Enable the display of multiple images for each car.
+   - Implement a zoom feature when hovering over images to provide a closer look.
+
+5. **Customizable Service Page:**
+   - If applicable, customize the service page to include information about a real service center.
+   - Provide details such as service offerings, contact information, and operating hours.
+
+6. **Forgot Password Option:**
+   - Implement a "Forgot Password" option on the login page.
+   - Allow users to reset their password by sending a secure email with instructions.
+
+These improvements aim to enhance user experience, provide more comprehensive information, and introduce additional features for both customers and employees. Consider implementing these features incrementally based on priorities and user feedback.
+
+## Contributors and Favourite cars
+
+- AleksandrosD (GitHub: [@AleksandrosD](https://github.com/AleksandrosD)) AUDI RS6
+- conor7276 (GitHub: [@conor7276](https://github.com/conor7276)) Porche GT3 RS
+
+Thank you for cheking out this project, feel free to fork it and work on your own.
+
+
+
+
+
+
+
