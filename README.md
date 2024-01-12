@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="200" src="Frontend/public/Logo.png" alt="Autobahn Logo" width="400">
+</p>
 # Autobahn - German Luxury Cars Dealership
 
 Welcome to Autobahn, your ultimate destination for exploring and acquiring the finest fast and luxurious German cars. Specializing in iconic brands such as AUDI, Porsche, Mercedes, and BMW, Autobahn brings you a curated collection of high-performance vehicles that redefine the driving experience.
