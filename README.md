@@ -1,7 +1,8 @@
+# Autobahn - German Luxury Cars Dealership
+
 <p align="center">
   <img width="200" src="Frontend/public/Logo.png" alt="Autobahn Logo" width="400">
 </p>
-# Autobahn - German Luxury Cars Dealership
 
 Welcome to Autobahn, your ultimate destination for exploring and acquiring the finest fast and luxurious German cars. Specializing in iconic brands such as AUDI, Porsche, Mercedes, and BMW, Autobahn brings you a curated collection of high-performance vehicles that redefine the driving experience.
 
@@ -33,7 +34,8 @@ Autobahn is powered by a robust stack of technologies to ensure a smooth and res
 
 Check out a brief video walkthrough of Autobahn to see how our platform can enhance your car-buying experience. Click on the image below to watch the video.
 
-<a href="https://player.vimeo.com/video/901836709" target="_blank">
-  <img src="https://i.vimeocdn.com/video/1780942886-34e374285441b2eed39fc92bc8bb98893079cf255d63d3fd5b418bbe0340fd35-d&_142x80" alt="Click to Watch Video" width="400">
-</a>
-
+<p align="center">
+  <a href="https://player.vimeo.com/video/901836709" target="_blank">
+    <img src="https://i.vimeocdn.com/video/1780942886-34e374285441b2eed39fc92bc8bb98893079cf255d63d3fd5b418bbe0340fd35-d&_142x80" alt="Click to Watch Video" width="400">
+  </a>
+</p>
